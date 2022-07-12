@@ -1,12 +1,12 @@
 # Operators
 
-* Operators are used to perform simple operations such as additions, comparisons etc on variables and values.
-* Python supports the following types of operators, we will be looking at some of the commonly used operators. 
+* Operators perform simple operations such as additions, comparisons, etc., on variables and values.
+* Python supports the following types of operators; we will look at some commonly used operators in this tutorial. 
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_b17068aa56274bcda2ed0b51718edcfc.png)
 
 ### Arithmetic Operators
 
-We can perform some basic arithmetic operations such as addition, subtraction, multiplication, etc. using Python.
+Using Python, we can perform some basic arithmetic operations such as addition, subtraction, multiplication, etc.
 
 Example:\
 \
