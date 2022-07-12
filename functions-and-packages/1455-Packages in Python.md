@@ -11,9 +11,9 @@
 * As our program grows larger with many modules, we place similar modules in one package and different modules in different packages. This makes a project (program) easy to manage and conceptually clear.
 * Similarly, as a directory can contain subdirectories and files, a Python package can have sub-packages and modules.
 * This leads to the following hierarchy:
-  * Package Level: Directory/Folder of Python Scripts.
-    * Module Level: Within a package, each script is a module that performs a specific function.
-    * We can specify functions, methods, and variables in a script.
+* Package Level: Directory/Folder of Python Scripts.
+  * Module Level: Within a package, each script is a module that performs a specific function.
+      * Script Level: We can specify functions, methods, and variables in a script.
 * Thousands of packages are available in Python.
 * For data science, the commonly used packages are:
   * Numpy: Working with arrays
