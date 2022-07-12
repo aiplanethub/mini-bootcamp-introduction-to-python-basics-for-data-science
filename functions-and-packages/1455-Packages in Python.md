@@ -13,7 +13,7 @@
 * This leads to the following hierarchy:
   * Directory/Folder of Python Scripts,
     * Within which, each script is a module that performs a specific function.
-    * We can specify functions, methods, and types in a script.
+    * We can specify functions, methods, and variables in a script.
 * Thousands of packages are available in Python.
 * For data science, the commonly used packages are:
   * Numpy: Working with arrays
