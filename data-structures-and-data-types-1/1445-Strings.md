@@ -39,7 +39,7 @@
 
 * If we have a long string and want to pinpoint an item towards the end, we can also count backward from the end of the string, starting at the index number -1.
 *   Printing 'r' from the string :\
-    **'a = "Hello, World!"`**
+    **`a = "Hello, World!"`**
 
     **`print(a[-4])`**
 * Get the characters from position -5 to position -3, starting the count from the end of the string: \
