@@ -1,26 +1,26 @@
 # \[Optional\] Installation of Python and Anaconda
 
-### For Windows
+## For Windows
 
 * Step1: Install Python 
   * [Direct download link](https://www.python.org/downloads/)
 * Step 2: Download and install Anaconda [here](https://docs.anaconda.com/anaconda/install/windows/).
 
-### For Other OS
+## For Other OS
 
 * [macOS](https://docs.anaconda.com/anaconda/install/mac-os/)
 * [Linux](https://docs.anaconda.com/anaconda/install/linux/)
 
-### Now Let’s Open Anaconda Navigator
+## Now Let’s Open Anaconda Navigator
 
 * Once you install and open Anaconda, you will see the below screen.
-* Click “Launch” under Jupyter Notebook in Anaconda Navigator in order to open a notebook in your default web browser.
+* Click “Launch” under Jupyter Notebook in Anaconda Navigator to open a notebook in your default web browser.
 
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_1e08f0a89162405ba36c353454a3f78b.png)
 
-### Jupyter Interface
+## Jupyter Interface
 
-* This is how the basic Jupyter interface looks like! 
+* This is what the basic Jupyter interface looks like! 
 * No files might be displayed if your folder is empty.
 
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_d4c63765ef1340d9b562c84e9aeb3963.png)
