@@ -1,9 +1,11 @@
-<h5>Print Function</h5>
+# Input and Output in Python
 
-<p style="text-align:center"><img alt="print function" height="228" src="https://dphi-courses.s3.ap-south-1.amazonaws.com/introduction-to-python-basics-for-data-science/print.png" width="444" /></p>
+## Print Function
 
-<h5>Input Function</h5>
+![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_e8bd0e0882624576b66f99743846a1e2.png)
 
-<p style="text-align:center"><img alt="input function 1" height="293" src="https://dphi-courses.s3.ap-south-1.amazonaws.com/introduction-to-python-basics-for-data-science/image+1.png" width="418" /></p>
+## Input Function
 
-<p style="text-align:center"><img alt="input function 2" height="173" src="https://dphi-courses.s3.ap-south-1.amazonaws.com/introduction-to-python-basics-for-data-science/image+2.png" width="302" /></p>
+![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_94b6e092798f4c7a90fabed8df65e5df.png)
+
+![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_0a22ae69c42c4e2c8ededa8d56f7b99b.png)
