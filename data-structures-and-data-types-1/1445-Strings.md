@@ -76,7 +76,7 @@
     **`print(len(a))`**
 * **Output: 13**
 
-### **String Methods**
+### String Methods
 
 * Python has a set of built-in methods you can use on strings.
 * Must learn: Learn about important string methods from the below cheatsheet: [Python String Methods Cheatsheet](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-strings/cheatsheet)
