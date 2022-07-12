@@ -71,7 +71,7 @@
 * To get the length of a string, use the len( ) function.
 *   Getting the length of the string a :
 
-    **'a = "Hello, World!"`**
+    **`a = "Hello, World!"`**
 
     **`print(len(a))`**
 * **Output: 13**
