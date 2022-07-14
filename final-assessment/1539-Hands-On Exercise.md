@@ -6,7 +6,7 @@ The questions/tasks for the project will be uploaded as an AI Challenge on the D
 
 Don't worry if you don't see a Challenge for this bootcamp in the first few days - we will release them soon. In the meantime, make sure you go through all the material of the Bootcamp and attempt the quiz. 
 
-Once the deadline for project submission (25th July) has passed, the next step is to review the work of three of your peers. You will receive the notebooks to be reviewed through E-mail. Evaluate them using the scoring document (also provided in the e-mail), then submit your peer review in the form given below. Finishing your peer review constitutes 20% of your final grade.
+Once the deadline for project submission (25th July 18:29 GMT) has passed, the next step is to review the work of three of your peers. You will receive the notebooks to be reviewed through E-mail. Evaluate them using the scoring document (also provided in the e-mail), then submit your peer review in the form given below. Finishing your peer review constitutes 20% of your final grade.
 
 Form for submitting your peer review: TBA
 
