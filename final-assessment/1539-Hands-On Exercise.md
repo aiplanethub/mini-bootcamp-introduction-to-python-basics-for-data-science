@@ -1,3 +1,3 @@
 Your final score in this bootcamp will be a combination of three components: 10 marks for the quiz, 70 marks from the peer review of your project submission, and 20 marks for reviewing three notebooks from your peers. **Submitting your peer review is mandatory for earning a certificate.**
 
-The tasks and submission instructions for the final project can be found here: **[Python Basics Bootcamp Challenge](https://dphi.tech/challenges/289)**.
+The tasks and submission instructions for the final project can be found here: **[Python Basics Bootcamp Challenge](https://dphi.tech/challenges/306)**.
